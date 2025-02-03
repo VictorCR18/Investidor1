@@ -1,0 +1,6 @@
+{
+  "investimentos": {
+    "1": { "nome": "Ações Tesla", "valor": 1000 },
+    "2": { "nome": "Bitcoin", "valor": 25000 }
+  }
+}

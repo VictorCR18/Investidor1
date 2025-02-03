@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526019646591",
+    "project_id": "real-time-94f2e",
+    "storage_bucket": "real-time-94f2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526019646591:android:ad30bbd53b201e20ae9b4a",
+        "android_client_info": {
+          "package_name": "com.example.investidor1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchxtFpScJZvJZH15qVX1LcQHiItRAehk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
